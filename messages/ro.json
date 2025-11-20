@@ -6,64 +6,64 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Soluții Tehnice Profesionale",
-    "subtitle": "Excelență Internațională între Roma și Slatina",
-    "description": "Oferim servicii de consultanță tehnică și inginerie de nivel înalt, conectând Italia și România cu expertiză și profesionalism.",
-    "cta": "Aflați Mai Mult",
-    "contact": "Contactați-ne"
+    "title": "Frumusețe și Îngrijire Unghii",
+    "subtitle": "Excelență Profesională între Roma și Slatina",
+    "description": "Centru specializat în nail art, manichiură și pedichiură profesională. Oferă unghiilor tale îngrijirea pe care o merită cu tratamentele noastre de înaltă calitate.",
+    "cta": "Descoperă Serviciile",
+    "contact": "Rezervă Acum"
   },
   "services": {
     "title": "Serviciile Noastre",
-    "subtitle": "Soluții Complete pentru Nevoile Dumneavoastră Tehnice",
-    "engineering": {
-      "title": "Inginerie",
-      "description": "Proiectare și consultanță în inginerie pentru proiecte industriale și de infrastructură de orice dimensiune."
+    "subtitle": "Tratamente Profesionale pentru Îngrijirea Unghiilor",
+    "manicure": {
+      "title": "Manichiură",
+      "description": "Manichiură profesională cu tratamente curative, pilire perfectă și aplicare de lac de înaltă calitate."
     },
-    "consulting": {
-      "title": "Consultanță Tehnică",
-      "description": "Suport tehnic specializat pentru optimizarea proceselor de producție și îmbunătățirea eficienței operaționale."
+    "pedicure": {
+      "title": "Pedichiură",
+      "description": "Pedichiură estetică și curativă pentru picioare mereu perfecte și îngrijite cu produse profesionale."
     },
-    "management": {
-      "title": "Management de Proiect",
-      "description": "Gestionare profesională a proiectelor complexe cu metodologii dovedite și echipe experimentate."
+    "nailart": {
+      "title": "Nail Art",
+      "description": "Decorațiuni unghii personalizate, de la clasic la modern, pentru un stil unic și rafinat."
     },
-    "international": {
-      "title": "Servicii Internaționale",
-      "description": "Facilităm relațiile comerciale și tehnice între Italia și România cu expertiză bilingvă."
+    "gel": {
+      "title": "Reconstrucție Gel",
+      "description": "Reconstrucție și prelungire unghii în gel cu tehnici avansate pentru unghii puternice și durabile."
     }
   },
   "about": {
     "title": "Despre Noi",
-    "subtitle": "O Punte Tehnică între Două Țări",
-    "description": "IcoTecnica este o companie de consultanță tehnică și inginerie care operează între Roma, Italia și Slatina, România. Cu ani de experiență în sector, oferim soluții inovatoare și profesionale pentru companiile care caută excelență tehnică și expertiză internațională.",
+    "subtitle": "Pasiune și Profesionalism în Serviciul Tău",
+    "description": "Onicotecnica este un centru specializat în îngrijirea și frumusețea unghiilor cu sedii în Roma, Italia și Slatina, România. Tehnicienele noastre calificate oferă tratamente profesionale folosind produse de înaltă calitate și cele mai moderne tehnici.",
     "experience": "Ani de Experiență",
-    "projects": "Proiecte Finalizate",
-    "clients": "Clienți Mulțumiți"
+    "projects": "Clienți Fericiți",
+    "clients": "Tratamente Efectuate"
   },
   "locations": {
-    "title": "Locațiile Noastre",
+    "title": "Saloanele Noastre",
     "rome": {
       "city": "Roma",
       "country": "Italia",
-      "description": "Biroul principal pentru piața italiană și Europa de Sud"
+      "description": "Salon în inima Romei, eleganță și profesionalism italian"
     },
     "slatina": {
       "city": "Slatina",
       "country": "România",
-      "description": "Centru operațional pentru Europa de Est și Balcani"
+      "description": "Centru estetic modern cu cele mai bune tehniciene"
     }
   },
   "contact": {
-    "title": "Contactați-ne",
-    "subtitle": "Suntem Aici să Vă Ajutăm",
+    "title": "Rezervă o Programare",
+    "subtitle": "Suntem Aici pentru Tine",
     "name": "Nume",
     "email": "Email",
     "message": "Mesaj",
-    "send": "Trimite Mesaj",
+    "send": "Trimite Cererea",
     "info": "Informații de Contact"
   },
   "footer": {
-    "description": "Soluții tehnice profesionale între Italia și România",
+    "description": "Centru profesional pentru îngrijirea unghiilor între Italia și România",
     "rights": "Toate drepturile rezervate"
   }
 }

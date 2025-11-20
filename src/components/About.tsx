@@ -20,7 +20,7 @@ export default function About() {
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
               {t('title')}
             </h2>
-            <p className="text-xl text-blue-600 mb-6 font-semibold">
+            <p className="text-xl text-pink-600 mb-6 font-semibold">
               {t('subtitle')}
             </p>
             <p className="text-lg text-gray-600 leading-relaxed mb-8">
@@ -30,7 +30,7 @@ export default function About() {
             <div className="grid grid-cols-3 gap-6">
               {stats.map((stat, index) => (
                 <div key={index} className="text-center">
-                  <div className="text-4xl font-bold text-blue-600 mb-2">
+                  <div className="text-4xl font-bold text-pink-600 mb-2">
                     {stat.value}
                   </div>
                   <div className="text-sm text-gray-600">
@@ -44,14 +44,14 @@ export default function About() {
           <div className="relative">
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069"
-                alt="Professional workspace"
+                src="https://images.unsplash.com/photo-1610992015762-45dca7e6e3e6?q=80&w=2069"
+                alt="Nail art salon"
                 fill
                 className="object-cover"
               />
             </div>
-            <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-blue-600 rounded-2xl -z-10"></div>
-            <div className="absolute -top-6 -right-6 w-32 h-32 bg-blue-200 rounded-2xl -z-10"></div>
+            <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-pink-600 rounded-2xl -z-10"></div>
+            <div className="absolute -top-6 -right-6 w-32 h-32 bg-pink-200 rounded-2xl -z-10"></div>
           </div>
         </div>
       </div>

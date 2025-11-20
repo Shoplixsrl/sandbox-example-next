@@ -6,64 +6,64 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Professional Technical Solutions",
-    "subtitle": "International Excellence between Rome and Slatina",
-    "description": "We offer high-level technical consulting and engineering services, connecting Italy and Romania with expertise and professionalism.",
-    "cta": "Learn More",
-    "contact": "Contact Us"
+    "title": "Beauty and Nail Care",
+    "subtitle": "Professional Excellence between Rome and Slatina",
+    "description": "Specialized center in nail art, professional manicure and pedicure. Give your nails the care they deserve with our high-quality treatments.",
+    "cta": "Discover Services",
+    "contact": "Book Now"
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Complete Solutions for Your Technical Needs",
-    "engineering": {
-      "title": "Engineering",
-      "description": "Design and engineering consulting for industrial and infrastructure projects of any size."
+    "subtitle": "Professional Treatments for Nail Care",
+    "manicure": {
+      "title": "Manicure",
+      "description": "Professional manicure with curative treatments, perfect filing and high-quality polish application."
     },
-    "consulting": {
-      "title": "Technical Consulting",
-      "description": "Specialized technical support to optimize your production processes and improve operational efficiency."
+    "pedicure": {
+      "title": "Pedicure",
+      "description": "Aesthetic and curative pedicure for always perfect and well-groomed feet with professional products."
     },
-    "management": {
-      "title": "Project Management",
-      "description": "Professional management of complex projects with proven methodologies and experienced teams."
+    "nailart": {
+      "title": "Nail Art",
+      "description": "Personalized nail decorations, from classic to modern, for a unique and refined style."
     },
-    "international": {
-      "title": "International Services",
-      "description": "We facilitate commercial and technical relations between Italy and Romania with bilingual expertise."
+    "gel": {
+      "title": "Gel Reconstruction",
+      "description": "Gel nail reconstruction and extension with advanced techniques for strong and lasting nails."
     }
   },
   "about": {
     "title": "About Us",
-    "subtitle": "A Technical Bridge Between Two Countries",
-    "description": "IcoTecnica is a technical consulting and engineering company operating between Rome, Italy and Slatina, Romania. With years of experience in the sector, we offer innovative and professional solutions for companies seeking technical excellence and international expertise.",
+    "subtitle": "Passion and Professionalism at Your Service",
+    "description": "Onicotecnica is a specialized center in nail care and beauty with locations in Rome, Italy and Slatina, Romania. Our qualified nail technicians offer professional treatments using high-quality products and the most modern techniques.",
     "experience": "Years of Experience",
-    "projects": "Completed Projects",
-    "clients": "Satisfied Clients"
+    "projects": "Happy Clients",
+    "clients": "Treatments Performed"
   },
   "locations": {
-    "title": "Our Locations",
+    "title": "Our Salons",
     "rome": {
       "city": "Rome",
       "country": "Italy",
-      "description": "Main office for the Italian market and Southern Europe"
+      "description": "Salon in the heart of Rome, Italian elegance and professionalism"
     },
     "slatina": {
       "city": "Slatina",
       "country": "Romania",
-      "description": "Operational center for Eastern Europe and the Balkans"
+      "description": "Modern beauty center with the best nail technicians"
     }
   },
   "contact": {
-    "title": "Contact Us",
-    "subtitle": "We're Here to Help",
+    "title": "Book an Appointment",
+    "subtitle": "We're Here for You",
     "name": "Name",
     "email": "Email",
     "message": "Message",
-    "send": "Send Message",
+    "send": "Send Request",
     "info": "Contact Information"
   },
   "footer": {
-    "description": "Professional technical solutions between Italy and Romania",
+    "description": "Professional nail care center between Italy and Romania",
     "rights": "All rights reserved"
   }
 }

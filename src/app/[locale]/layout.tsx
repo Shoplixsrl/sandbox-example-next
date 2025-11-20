@@ -6,8 +6,8 @@ import { locales } from '@/i18n';
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "IcoTecnica - Soluzioni Tecniche Professionali",
-  description: "Consulenza tecnica e ingegneria tra Roma e Slatina. Soluzioni professionali per Italia e Romania.",
+  title: "Onicotecnica - Bellezza e Cura delle Unghie",
+  description: "Centro specializzato in nail art, manicure e pedicure professionale tra Roma e Slatina. Trattamenti di alta qualità per le tue unghie.",
 };
 
 export function generateStaticParams() {

@@ -9,12 +9,12 @@ export default function Locations() {
   const locations = [
     {
       key: 'rome',
-      image: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=2096',
+      image: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=2096',
       flag: '🇮🇹'
     },
     {
       key: 'slatina',
-      image: 'https://images.unsplash.com/photo-1555992336-fb7c1cf24976?q=80&w=2070',
+      image: 'https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?q=80&w=2070',
       flag: '🇷🇴'
     }
   ];
@@ -47,7 +47,7 @@ export default function Locations() {
                   <h3 className="text-3xl font-bold mb-2">
                     {t(`${location.key}.city`)}
                   </h3>
-                  <p className="text-xl text-blue-200 mb-3">
+                  <p className="text-xl text-pink-200 mb-3">
                     {t(`${location.key}.country`)}
                   </p>
                   <p className="text-gray-200">

@@ -21,23 +21,23 @@ export default function Header() {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-blue-800 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">IT</span>
+            <div className="w-10 h-10 bg-gradient-to-br from-pink-600 to-purple-800 rounded-lg flex items-center justify-center">
+              <span className="text-white font-bold text-xl">💅</span>
             </div>
-            <span className="text-2xl font-bold text-gray-900">IcoTecnica</span>
+            <span className="text-2xl font-bold text-gray-900">Onicotecnica</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
-            <a href={`/${locale}#home`} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <a href={`/${locale}#home`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('home')}
             </a>
-            <a href={`/${locale}#services`} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <a href={`/${locale}#services`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('services')}
             </a>
-            <a href={`/${locale}#about`} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <a href={`/${locale}#about`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('about')}
             </a>
-            <a href={`/${locale}#contact`} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <a href={`/${locale}#contact`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('contact')}
             </a>
           </div>
@@ -50,7 +50,7 @@ export default function Header() {
                   onClick={() => changeLocale(loc)}
                   className={`px-3 py-1 rounded-md text-sm font-medium transition-all ${
                     locale === loc
-                      ? 'bg-blue-600 text-white'
+                      ? 'bg-pink-600 text-white'
                       : 'text-gray-600 hover:text-gray-900'
                   }`}
                 >

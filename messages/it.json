@@ -6,64 +6,64 @@
     "contact": "Contatti"
   },
   "hero": {
-    "title": "Soluzioni Tecniche Professionali",
-    "subtitle": "Eccellenza Internazionale tra Roma e Slatina",
-    "description": "Offriamo servizi di consulenza tecnica e ingegneria di alto livello, collegando l'Italia e la Romania con competenza e professionalità.",
-    "cta": "Scopri di Più",
-    "contact": "Contattaci"
+    "title": "Bellezza e Cura delle Unghie",
+    "subtitle": "Eccellenza Professionale tra Roma e Slatina",
+    "description": "Centro specializzato in nail art, manicure e pedicure professionale. Regala alle tue unghie la cura che meritano con i nostri trattamenti di alta qualità.",
+    "cta": "Scopri i Servizi",
+    "contact": "Prenota Ora"
   },
   "services": {
     "title": "I Nostri Servizi",
-    "subtitle": "Soluzioni Complete per le Tue Esigenze Tecniche",
-    "engineering": {
-      "title": "Ingegneria",
-      "description": "Progettazione e consulenza ingegneristica per progetti industriali e infrastrutturali di ogni dimensione."
+    "subtitle": "Trattamenti Professionali per la Cura delle Unghie",
+    "manicure": {
+      "title": "Manicure",
+      "description": "Manicure professionale con trattamenti curativi, limatura perfetta e applicazione smalto di alta qualità."
     },
-    "consulting": {
-      "title": "Consulenza Tecnica",
-      "description": "Supporto tecnico specializzato per ottimizzare i tuoi processi produttivi e migliorare l'efficienza operativa."
+    "pedicure": {
+      "title": "Pedicure",
+      "description": "Pedicure estetica e curativa per piedi sempre perfetti e curati con prodotti professionali."
     },
-    "management": {
-      "title": "Project Management",
-      "description": "Gestione professionale di progetti complessi con metodologie consolidate e team esperti."
+    "nailart": {
+      "title": "Nail Art",
+      "description": "Decorazioni unghie personalizzate, dal classico al moderno, per uno stile unico e raffinato."
     },
-    "international": {
-      "title": "Servizi Internazionali",
-      "description": "Facilitiamo le relazioni commerciali e tecniche tra l'Italia e la Romania con competenza bilingue."
+    "gel": {
+      "title": "Ricostruzione Gel",
+      "description": "Ricostruzione e allungamento unghie in gel con tecniche avanzate per unghie forti e durature."
     }
   },
   "about": {
     "title": "Chi Siamo",
-    "subtitle": "Un Ponte Tecnico tra Due Paesi",
-    "description": "IcoTecnica è una società di consulenza tecnica e ingegneria che opera tra Roma, Italia e Slatina, Romania. Con anni di esperienza nel settore, offriamo soluzioni innovative e professionali per aziende che cercano eccellenza tecnica e competenza internazionale.",
+    "subtitle": "Passione e Professionalità al Tuo Servizio",
+    "description": "Onicotecnica è un centro specializzato nella cura e bellezza delle unghie con sedi a Roma, Italia e Slatina, Romania. Le nostre onicotecniche qualificate offrono trattamenti professionali utilizzando prodotti di alta qualità e le tecniche più moderne.",
     "experience": "Anni di Esperienza",
-    "projects": "Progetti Completati",
-    "clients": "Clienti Soddisfatti"
+    "projects": "Clienti Felici",
+    "clients": "Trattamenti Eseguiti"
   },
   "locations": {
-    "title": "Le Nostre Sedi",
+    "title": "I Nostri Saloni",
     "rome": {
       "city": "Roma",
       "country": "Italia",
-      "description": "Sede principale per il mercato italiano e il sud Europa"
+      "description": "Salone nel cuore di Roma, eleganza e professionalità italiana"
     },
     "slatina": {
       "city": "Slatina",
       "country": "Romania",
-      "description": "Centro operativo per l'Europa orientale e i Balcani"
+      "description": "Centro estetico moderno con le migliori onicotecniche"
     }
   },
   "contact": {
-    "title": "Contattaci",
-    "subtitle": "Siamo Qui per Aiutarti",
+    "title": "Prenota un Appuntamento",
+    "subtitle": "Siamo Qui per Te",
     "name": "Nome",
     "email": "Email",
     "message": "Messaggio",
-    "send": "Invia Messaggio",
+    "send": "Invia Richiesta",
     "info": "Informazioni di Contatto"
   },
   "footer": {
-    "description": "Soluzioni tecniche professionali tra Italia e Romania",
+    "description": "Centro professionale per la cura delle unghie tra Italia e Romania",
     "rights": "Tutti i diritti riservati"
   }
 }

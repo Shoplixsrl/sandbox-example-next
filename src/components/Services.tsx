@@ -8,24 +8,24 @@ export default function Services() {
 
   const services = [
     {
-      key: 'engineering',
-      image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070',
-      icon: '🏗️'
+      key: 'manicure',
+      image: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=2070',
+      icon: '💅'
     },
     {
-      key: 'consulting',
-      image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070',
-      icon: '💼'
+      key: 'pedicure',
+      image: 'https://images.unsplash.com/photo-1519415387722-a1c3bbef716c?q=80&w=2070',
+      icon: '🦶'
     },
     {
-      key: 'management',
-      image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070',
-      icon: '📊'
+      key: 'nailart',
+      image: 'https://images.unsplash.com/photo-1610992015762-45dca7e6e3e6?q=80&w=2070',
+      icon: '✨'
     },
     {
-      key: 'international',
-      image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072',
-      icon: '🌍'
+      key: 'gel',
+      image: 'https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=2070',
+      icon: '💎'
     }
   ];
 
