@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Soluzioni Tecniche Professionali",
+    "subtitle": "Eccellenza Internazionale tra Roma e Slatina",
+    "description": "Offriamo servizi di consulenza tecnica e ingegneria di alto livello, collegando l'Italia e la Romania con competenza e professionalità.",
+    "cta": "Scopri di Più",
+    "contact": "Contattaci"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni Complete per le Tue Esigenze Tecniche",
+    "engineering": {
+      "title": "Ingegneria",
+      "description": "Progettazione e consulenza ingegneristica per progetti industriali e infrastrutturali di ogni dimensione."
+    },
+    "consulting": {
+      "title": "Consulenza Tecnica",
+      "description": "Supporto tecnico specializzato per ottimizzare i tuoi processi produttivi e migliorare l'efficienza operativa."
+    },
+    "management": {
+      "title": "Project Management",
+      "description": "Gestione professionale di progetti complessi con metodologie consolidate e team esperti."
+    },
+    "international": {
+      "title": "Servizi Internazionali",
+      "description": "Facilitiamo le relazioni commerciali e tecniche tra l'Italia e la Romania con competenza bilingue."
+    }
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "subtitle": "Un Ponte Tecnico tra Due Paesi",
+    "description": "IcoTecnica è una società di consulenza tecnica e ingegneria che opera tra Roma, Italia e Slatina, Romania. Con anni di esperienza nel settore, offriamo soluzioni innovative e professionali per aziende che cercano eccellenza tecnica e competenza internazionale.",
+    "experience": "Anni di Esperienza",
+    "projects": "Progetti Completati",
+    "clients": "Clienti Soddisfatti"
+  },
+  "locations": {
+    "title": "Le Nostre Sedi",
+    "rome": {
+      "city": "Roma",
+      "country": "Italia",
+      "description": "Sede principale per il mercato italiano e il sud Europa"
+    },
+    "slatina": {
+      "city": "Slatina",
+      "country": "Romania",
+      "description": "Centro operativo per l'Europa orientale e i Balcani"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Siamo Qui per Aiutarti",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia Messaggio",
+    "info": "Informazioni di Contatto"
+  },
+  "footer": {
+    "description": "Soluzioni tecniche professionali tra Italia e Romania",
+    "rights": "Tutti i diritti riservati"
+  }
+}

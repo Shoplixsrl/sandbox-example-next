@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Soluții Tehnice Profesionale",
+    "subtitle": "Excelență Internațională între Roma și Slatina",
+    "description": "Oferim servicii de consultanță tehnică și inginerie de nivel înalt, conectând Italia și România cu expertiză și profesionalism.",
+    "cta": "Aflați Mai Mult",
+    "contact": "Contactați-ne"
+  },
+  "services": {
+    "title": "Serviciile Noastre",
+    "subtitle": "Soluții Complete pentru Nevoile Dumneavoastră Tehnice",
+    "engineering": {
+      "title": "Inginerie",
+      "description": "Proiectare și consultanță în inginerie pentru proiecte industriale și de infrastructură de orice dimensiune."
+    },
+    "consulting": {
+      "title": "Consultanță Tehnică",
+      "description": "Suport tehnic specializat pentru optimizarea proceselor de producție și îmbunătățirea eficienței operaționale."
+    },
+    "management": {
+      "title": "Management de Proiect",
+      "description": "Gestionare profesională a proiectelor complexe cu metodologii dovedite și echipe experimentate."
+    },
+    "international": {
+      "title": "Servicii Internaționale",
+      "description": "Facilităm relațiile comerciale și tehnice între Italia și România cu expertiză bilingvă."
+    }
+  },
+  "about": {
+    "title": "Despre Noi",
+    "subtitle": "O Punte Tehnică între Două Țări",
+    "description": "IcoTecnica este o companie de consultanță tehnică și inginerie care operează între Roma, Italia și Slatina, România. Cu ani de experiență în sector, oferim soluții inovatoare și profesionale pentru companiile care caută excelență tehnică și expertiză internațională.",
+    "experience": "Ani de Experiență",
+    "projects": "Proiecte Finalizate",
+    "clients": "Clienți Mulțumiți"
+  },
+  "locations": {
+    "title": "Locațiile Noastre",
+    "rome": {
+      "city": "Roma",
+      "country": "Italia",
+      "description": "Biroul principal pentru piața italiană și Europa de Sud"
+    },
+    "slatina": {
+      "city": "Slatina",
+      "country": "România",
+      "description": "Centru operațional pentru Europa de Est și Balcani"
+    }
+  },
+  "contact": {
+    "title": "Contactați-ne",
+    "subtitle": "Suntem Aici să Vă Ajutăm",
+    "name": "Nume",
+    "email": "Email",
+    "message": "Mesaj",
+    "send": "Trimite Mesaj",
+    "info": "Informații de Contact"
+  },
+  "footer": {
+    "description": "Soluții tehnice profesionale între Italia și România",
+    "rights": "Toate drepturile rezervate"
+  }
+}

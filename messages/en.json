@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Professional Technical Solutions",
+    "subtitle": "International Excellence between Rome and Slatina",
+    "description": "We offer high-level technical consulting and engineering services, connecting Italy and Romania with expertise and professionalism.",
+    "cta": "Learn More",
+    "contact": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete Solutions for Your Technical Needs",
+    "engineering": {
+      "title": "Engineering",
+      "description": "Design and engineering consulting for industrial and infrastructure projects of any size."
+    },
+    "consulting": {
+      "title": "Technical Consulting",
+      "description": "Specialized technical support to optimize your production processes and improve operational efficiency."
+    },
+    "management": {
+      "title": "Project Management",
+      "description": "Professional management of complex projects with proven methodologies and experienced teams."
+    },
+    "international": {
+      "title": "International Services",
+      "description": "We facilitate commercial and technical relations between Italy and Romania with bilingual expertise."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "A Technical Bridge Between Two Countries",
+    "description": "IcoTecnica is a technical consulting and engineering company operating between Rome, Italy and Slatina, Romania. With years of experience in the sector, we offer innovative and professional solutions for companies seeking technical excellence and international expertise.",
+    "experience": "Years of Experience",
+    "projects": "Completed Projects",
+    "clients": "Satisfied Clients"
+  },
+  "locations": {
+    "title": "Our Locations",
+    "rome": {
+      "city": "Rome",
+      "country": "Italy",
+      "description": "Main office for the Italian market and Southern Europe"
+    },
+    "slatina": {
+      "city": "Slatina",
+      "country": "Romania",
+      "description": "Operational center for Eastern Europe and the Balkans"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're Here to Help",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "info": "Contact Information"
+  },
+  "footer": {
+    "description": "Professional technical solutions between Italy and Romania",
+    "rights": "All rights reserved"
+  }
+}
