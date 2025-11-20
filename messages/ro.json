@@ -2,6 +2,7 @@
   "nav": {
     "home": "Acasă",
     "services": "Servicii",
+    "products": "Produse",
     "about": "Despre Noi",
     "contact": "Contact"
   },
@@ -30,6 +31,66 @@
     "gel": {
       "title": "Reconstrucție Gel",
       "description": "Reconstrucție și prelungire unghii în gel cu tehnici avansate pentru unghii puternice și durabile."
+    }
+  },
+  "products": {
+    "title": "Produsele Noastre",
+    "subtitle": "Peste 10.000 de Produse Profesionale pentru Îngrijirea Unghiilor",
+    "semipermanent": {
+      "title": "Oje Semipermanente",
+      "description": "Ojă semipermanentă de cea mai înaltă calitate cu durabilitate până la 3 săptămâni",
+      "feature1": "Colecții ART, The One, Chocolate și Effect X",
+      "feature2": "Culori strălucitoare și rezistente",
+      "feature3": "Aplicare ușoară și profesională"
+    },
+    "uvgel": {
+      "title": "Geluri UV",
+      "description": "Geluri UV profesionale pentru bază, construcție și culoare",
+      "feature1": "Bază, gel constructor și geluri colorate",
+      "feature2": "Formulă autonivelantă",
+      "feature3": "Rezistență și strălucire excepționale"
+    },
+    "rubberbase": {
+      "title": "Baze Rubber",
+      "description": "Baze rubber pentru aderență perfectă și flexibilitate",
+      "feature1": "Colecții French, Sheer, Timeless, Royal",
+      "feature2": "Previne exfolierea",
+      "feature3": "Flexibilitate optimă"
+    },
+    "polygel": {
+      "title": "Polygel/RevoGel",
+      "description": "Produse hibride pentru sculptare unghii fără miros",
+      "feature1": "Ușor de lucrat",
+      "feature2": "Rezistență superioară",
+      "feature3": "Fără miros și nu curge"
+    },
+    "tools": {
+      "title": "Accesorii & Unelte",
+      "description": "Echipament profesional pentru tehnicieni unghii",
+      "feature1": "Freze electrice și capete de frezat",
+      "feature2": "Pensule profesionale",
+      "feature3": "Uleiuri cuticule și tratamente"
+    },
+    "lashes": {
+      "title": "Gene False",
+      "description": "Gene false pentru o privire magnetică",
+      "feature1": "Bandă, individuale și magnetice",
+      "feature2": "Extensii profesionale",
+      "feature3": "Efect natural sau volum"
+    },
+    "makeup": {
+      "title": "Machiaj",
+      "description": "Machiaj profesional pentru ochi, față și buze",
+      "feature1": "Farduri, eyeliner, rujuri",
+      "feature2": "Fonduri de ten și correctoare",
+      "feature3": "Pensule și accesorii"
+    },
+    "professional": {
+      "title": "Produse Profesionale",
+      "description": "Echipament complet pentru saloane de înfrumusețare",
+      "feature1": "Mobilier pentru saloane",
+      "feature2": "Lămpi UV/LED profesionale",
+      "feature3": "Sterilizatoare și dezinfectanți"
     }
   },
   "about": {

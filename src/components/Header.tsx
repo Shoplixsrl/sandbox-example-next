@@ -34,6 +34,9 @@ export default function Header() {
             <a href={`/${locale}#services`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('services')}
             </a>
+            <a href={`/${locale}#products`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
+              {t('products')}
+            </a>
             <a href={`/${locale}#about`} className="text-gray-700 hover:text-pink-600 transition-colors font-medium">
               {t('about')}
             </a>

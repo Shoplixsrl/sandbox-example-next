@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "services": "Servizi",
+    "products": "Prodotti",
     "about": "Chi Siamo",
     "contact": "Contatti"
   },
@@ -30,6 +31,66 @@
     "gel": {
       "title": "Ricostruzione Gel",
       "description": "Ricostruzione e allungamento unghie in gel con tecniche avanzate per unghie forti e durature."
+    }
+  },
+  "products": {
+    "title": "I Nostri Prodotti",
+    "subtitle": "Oltre 10.000 Prodotti Professionali per la Cura delle Unghie",
+    "semipermanent": {
+      "title": "Oje Semipermanente",
+      "description": "Smalti semipermanenti di altissima qualità con durata fino a 3 settimane",
+      "feature1": "Collezioni ART, The One, Chocolate ed Effect X",
+      "feature2": "Colori brillanti e resistenti",
+      "feature3": "Applicazione facile e professionale"
+    },
+    "uvgel": {
+      "title": "Geluri UV",
+      "description": "Gel UV professionali per base, costruzione e colore",
+      "feature1": "Base coat, builder gel e gel colorati",
+      "feature2": "Formula autolivellante",
+      "feature3": "Resistenza e brillantezza eccezionali"
+    },
+    "rubberbase": {
+      "title": "Baze Rubber",
+      "description": "Basi rubber per una perfetta adesione e flessibilità",
+      "feature1": "Collezioni French, Sheer, Timeless, Royal",
+      "feature2": "Previene lo sfaldamento",
+      "feature3": "Flessibilità ottimale"
+    },
+    "polygel": {
+      "title": "Polygel/RevoGel",
+      "description": "Prodotti ibridi per scultura unghie senza odore",
+      "feature1": "Facile da lavorare",
+      "feature2": "Resistenza superiore",
+      "feature3": "Senza odore e non cola"
+    },
+    "tools": {
+      "title": "Accessori & Utensili",
+      "description": "Attrezzatura professionale per onicotecniche",
+      "feature1": "Frese elettriche e punte",
+      "feature2": "Pennelli professionali",
+      "feature3": "Oli cuticole e trattamenti"
+    },
+    "lashes": {
+      "title": "Gene False",
+      "description": "Ciglia finte per uno sguardo magnetico",
+      "feature1": "A banda, individuali e magnetiche",
+      "feature2": "Extensions professionali",
+      "feature3": "Effetto naturale o volume"
+    },
+    "makeup": {
+      "title": "Make-up",
+      "description": "Trucco professionale per occhi, viso e labbra",
+      "feature1": "Ombretti, eyeliner, rossetti",
+      "feature2": "Fondotinta e correttori",
+      "feature3": "Pennelli e accessori"
+    },
+    "professional": {
+      "title": "Prodotti Professionali",
+      "description": "Attrezzature complete per saloni di bellezza",
+      "feature1": "Arredi per saloni",
+      "feature2": "Lampade UV/LED professionali",
+      "feature3": "Sterilizzatori e igienizzanti"
     }
   },
   "about": {
