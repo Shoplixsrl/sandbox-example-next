@@ -28,6 +28,7 @@ export interface ChannelAttribution {
   revenue: number;
   percentage: number;
   touchPoints: number;
+  [key: string]: string | number;
 }
 
 export interface CustomerAcquisitionCost {
@@ -37,6 +38,7 @@ export interface CustomerAcquisitionCost {
   cac: number;
   ltv: number; // Lifetime Value
   ltvCacRatio: number;
+  [key: string]: string | number;
 }
 
 export interface EngagementMetrics {
@@ -86,6 +88,7 @@ export interface TimeSeriesData {
   revenue: number;
   ctr: number;
   cpc: number;
+  [key: string]: string | number;
 }
 
 export interface ReportConfig {
