@@ -43,8 +43,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# bun
-bun.lockb
+# bun (keep bun.lock for version control)
+# bun.lockb
 
 # database
 *.db
